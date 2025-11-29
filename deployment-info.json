@@ -1,12 +1,12 @@
 {
-  "network": "monad",
-  "chainId": 10143,
+  "network": "sepolia",
+  "chainId": 11155111,
   "deployer": "0x0F07CdFa12e37cB52f88CDdBE06Db475cf89f423",
-  "timestamp": "2025-11-28T15:42:02.547Z",
+  "timestamp": "2025-11-29T06:39:53.777Z",
   "contracts": {
-    "LiveRoom": {
-      "address": "0x3E2a676F83CC030C764a9F942bCEeE5657331CE8",
-      "explorer": "https://testnet.monadexplorer.com/address/0x3E2a676F83CC030C764a9F942bCEeE5657331CE8"
+    "UnifiedTipping": {
+      "address": "0x18B876906c6F4f555D3b498Ce556A3363462F871",
+      "explorer": "https://sepolia.etherscan.io/address/0x18B876906c6F4f555D3b498Ce556A3363462F871"
     }
   }
 }
