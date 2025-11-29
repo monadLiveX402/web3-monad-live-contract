@@ -1,0 +1,12 @@
+{
+  "network": "monad",
+  "chainId": 10143,
+  "deployer": "0x0F07CdFa12e37cB52f88CDdBE06Db475cf89f423",
+  "timestamp": "2025-11-29T01:47:51.401Z",
+  "contracts": {
+    "TipStream": {
+      "address": "0x2dAA2b2370F37179E40E815b6D1f05cb107fE8c4",
+      "explorer": "https://testnet.monadexplorer.com/address/0x2dAA2b2370F37179E40E815b6D1f05cb107fE8c4"
+    }
+  }
+}
